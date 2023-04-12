@@ -1,5 +1,5 @@
 import {Container, Typography} from "@material-ui/core";
-import Orderform from "./components/Order/Orderform";
+import Orderform from './components/Order/Orderform';
 function App() {
   return (
 <Container maxWidth="md">
